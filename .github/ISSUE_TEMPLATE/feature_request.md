@@ -19,4 +19,6 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
-**Acceptance Criteria**
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
